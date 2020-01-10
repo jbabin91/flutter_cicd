@@ -1,0 +1,16 @@
+//
+//  prod.xcconfig
+//  Runner
+//
+//  Created by Jace Babin on 1/10/20.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+#include "Generated.xcconfig"
+
+FLUTTER_TARGET=lib/main.dart
+
+BUNDLE_ID = com.awesomeapps.flutter_cicd
+BUNDLE_NAME = Flutter CICD

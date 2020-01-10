@@ -1,0 +1,2 @@
+json_key_file("../do-not-upload/google-service-account.json") # Path to the json secret file - Follow https://docs.fastlane.tools/actions/supply/#setup to get one
+package_name("com.awesomeapps.flutter_cicd") # e.g. com.krausefx.app

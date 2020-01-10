@@ -1,4 +1,4 @@
-package com.example.flutter_cicd
+package com.awesomeapps.flutter_cicd
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity

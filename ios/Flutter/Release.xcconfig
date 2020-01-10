@@ -1,1 +1,4 @@
 #include "Generated.xcconfig"
+
+BUNDLE_ID = com.awesomeapps.flutter_cicd.staging
+BUNDLE_NAME = Flutter CICD Staging
