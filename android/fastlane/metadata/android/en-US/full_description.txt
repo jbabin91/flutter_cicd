@@ -1,0 +1,1 @@
+This is a test app to set up a ci/cd pipeline for a flutter app.
