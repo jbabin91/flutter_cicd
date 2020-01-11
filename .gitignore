@@ -133,3 +133,11 @@ Temporary Items
 .history
 
 # End of https://www.gitignore.io/api/visualstudiocode
+
+# Created by https://www.gitignore.io/api/dotenv
+# Edit at https://www.gitignore.io/?templates=dotenv
+
+### dotenv ###
+.env
+
+# End of https://www.gitignore.io/api/dotenv
