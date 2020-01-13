@@ -12,5 +12,5 @@
 
 FLUTTER_TARGET=lib/main.dart
 
-BUNDLE_ID = com.awesomeapps.flutter_cicd
+BUNDLE_ID = com.awesomeapps.flutter-cicd
 BUNDLE_NAME = Flutter CICD

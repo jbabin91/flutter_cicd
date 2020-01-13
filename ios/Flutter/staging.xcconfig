@@ -12,5 +12,5 @@
 
 FLUTTER_TARGET=lib/main.dart
 
-BUNDLE_ID = com.awesomeapps.flutter_cicd.staging
+BUNDLE_ID = com.awesomeapps.flutter-cicd.staging
 BUNDLE_NAME = Flutter CICD Staging

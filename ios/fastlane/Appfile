@@ -1,2 +1,2 @@
-app_identifier("com.awesomeapps.flutter_cicd") # The bundle identifier of your app
+app_identifier("com.awesomeapps.flutter-cicd") # The bundle identifier of your app
 apple_id("jbabin91@gmail.com") # Your Apple email address
