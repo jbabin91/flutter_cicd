@@ -10,7 +10,7 @@
 
 #include "Generated.xcconfig"
 
-FLUTTER_TARGET=lib/main.dart
+FLUTTER_TARGET=lib/main_dev.dart
 
 BUNDLE_ID = com.awesomeapps.flutter-cicd.dev
 BUNDLE_NAME = Flutter CICD DEV

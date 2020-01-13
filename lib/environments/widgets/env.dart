@@ -18,6 +18,6 @@ class Env extends InheritedWidget {
   bool updateShouldNotify(Env old) => false;
 
   static Env of(BuildContext context) {
-    return context.dependOnInheritedWidgetOfExactType() as Env;
+    return context.dependOnInheritedWidgetOfExactType();
   }
 }
