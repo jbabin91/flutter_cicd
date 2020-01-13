@@ -1,5 +1,6 @@
 # User defined
-do-not-upload
+do-not-upload/
+coverage/
 
 # Miscellaneous
 *.class
